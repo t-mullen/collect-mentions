@@ -14,9 +14,6 @@
     "build": "ascjs src dist",
     "prepublishOnly": "yarn build"
   },
-  "engines": {
-    "node": "^6.9.0 || ^8.9.0 || ^10.6.0"
-  },
   "dependencies": {
     "mentions-regex": "^2.0.3"
   },
